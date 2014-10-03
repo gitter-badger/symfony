@@ -1,5 +1,6 @@
 README
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/robinduval/symfony?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/symfony/symfony.png?branch=master)](http://travis-ci.org/symfony/symfony)
 
